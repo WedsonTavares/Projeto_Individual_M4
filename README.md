@@ -56,6 +56,9 @@ O código irá gerar as visualizações gráficas e exibirá o relatório de pro
 Contribuições
 Contribuições para melhorias e novas funcionalidades são bem-vindas! Sinta-se à vontade para abrir um Pull Request para discutir suas ideias e sugestões.
 
+Você também pode acessar o arquivo no Colab:
+https://colab.research.google.com/drive/1w7fnoXc8UyZVlR54-gyjW2tEDt0euvRj#scrollTo=b6qBNrZV3xjL
+
 Contato
 - LinkedIn: [Wedson Tavares](https://www.linkedin.com/in/wedson-tavares-0a7961261/)
 
