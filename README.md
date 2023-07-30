@@ -27,6 +27,7 @@ Total de bugs corrigidos: soma o número de bugs corrigidos em todos os dias da 
 Média diária de bugs corrigidos: calcula a média do número de bugs corrigidos por dia.
 Total de tarefas concluídas: soma o número de tarefas concluídas em todos os dias da semana.
 Média diária de tarefas concluídas: calcula a média do número de tarefas concluídas por dia.
+
 Visualizações Gráficas:
 O código cria diversas visualizações gráficas utilizando Seaborn e Matplotlib para mostrar os dados de maneira mais intuitiva:
 
@@ -35,7 +36,7 @@ Gráficos de barras também exibem as médias diárias de horas trabalhadas, bug
 Relatório de Progresso Diário:
 O código gera um relatório em formato de texto, exibindo as métricas calculadas e os totais de horas trabalhadas, bugs corrigidos e tarefas concluídas.
 
-Como Utilizar o Código
+Como Utilizar o Código:
 Instale as bibliotecas necessárias:
 Para executar o código, é necessário ter o Python instalado em seu sistema, juntamente com as bibliotecas Pandas, NumPy, Matplotlib e Seaborn. Caso não tenha essas bibliotecas instaladas, você pode instalá-las utilizando o pip:
 
@@ -45,6 +46,7 @@ Ferramentas utilizadas:
 
 Copy code
 pip install pandas numpy matplotlib seaborn
+
 Execute o código:
 Copie o código fornecido no arquivo relatorio_progresso_diario.py e execute-o em seu ambiente Python.
 
