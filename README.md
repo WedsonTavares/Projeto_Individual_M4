@@ -1,4 +1,6 @@
-Relatório de Progresso Diário - README
+**Relatório de Progresso Diário**
+
+
 Este repositório contém um código em Python que cria um relatório de progresso diário baseado em dados de horas trabalhadas, bugs corrigidos e tarefas concluídas em diferentes dias da semana. O código utiliza as bibliotecas Pandas, NumPy, Matplotlib e Seaborn para análise de dados e visualização.
 
 Funcionamento do Código
