@@ -49,4 +49,5 @@ Contribuições
 Contribuições para melhorias e novas funcionalidades são bem-vindas! Sinta-se à vontade para abrir um Pull Request para discutir suas ideias e sugestões.
 
 Contato
-LinkedIn: Wedson Tavares
+- LinkedIn: [Wedson Tavares](https://www.linkedin.com/in/wedson-tavares-0a7961261/)
+
