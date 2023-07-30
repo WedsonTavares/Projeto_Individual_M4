@@ -39,6 +39,10 @@ Como Utilizar o Código
 Instale as bibliotecas necessárias:
 Para executar o código, é necessário ter o Python instalado em seu sistema, juntamente com as bibliotecas Pandas, NumPy, Matplotlib e Seaborn. Caso não tenha essas bibliotecas instaladas, você pode instalá-las utilizando o pip:
 
+Ferramentas utilizadas
+[![Pandas](images/pandas_icon.png)](https://pandas.pydata.org/) [![NumPy](images/numpy_icon.png)](https://numpy.org/) [![Matplotlib](images/matplotlib_icon.png)](https://matplotlib.org/) [![Seaborn](images/seaborn_icon.png)](https://seaborn.pydata.org/)
+
+
 Copy code
 pip install pandas numpy matplotlib seaborn
 Execute o código:
