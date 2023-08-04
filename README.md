@@ -1,7 +1,14 @@
 **Relatório de Progresso Diário**
 
+# Evidência de Entrega
 
+Este repositório contém um script em Python que analisa e visualiza o progresso diário de trabalho. O código é capaz de calcular métricas como o total de horas trabalhadas, média diária de horas trabalhadas, total de bugs corrigidos, média diária de bugs corrigidos, total de tarefas concluídas e média diária de tarefas concluídas.
+
+Além disso, o script utiliza as bibliotecas Pandas, NumPy, Matplotlib e Seaborn para criar gráficos de barras que mostram o total de horas trabalhadas, total de bugs corrigidos e total de tarefas concluídas por dia da semana. Também são apresentados gráficos de barras para a média diária de horas trabalhadas, média diária de bugs corrigidos e média diária de tarefas concluídas.
+
+Os dados de progresso diário são representados em um dicionário, onde cada chave representa uma coluna do DataFrame. O relatório de progresso diário é exibido no console com as métricas calculadas.
 Este repositório contém um código em Python que cria um relatório de progresso diário baseado em dados de horas trabalhadas, bugs corrigidos e tarefas concluídas em diferentes dias da semana. O código utiliza as bibliotecas Pandas, NumPy, Matplotlib e Seaborn para análise de dados e visualização.
+
 
 Funcionamento do Código
 O código realiza as seguintes etapas:
