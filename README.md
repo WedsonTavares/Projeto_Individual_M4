@@ -35,7 +35,6 @@ Total de tarefas concluídas: soma o número de tarefas concluídas em todos os 
 Média diária de tarefas concluídas: calcula a média do número de tarefas concluídas por dia.
 
 Visualizações Gráficas:
-O código cria diversas visualizações gráficas utilizando Seaborn e Matplotlib para mostrar os dados de maneira mais intuitiva:
 
 Gráficos de barras mostram o total de horas trabalhadas, total de bugs corrigidos e total de tarefas concluídas por dia da semana.
 Gráficos de barras também exibem as médias diárias de horas trabalhadas, bugs corrigidos e tarefas concluídas separadamente.
