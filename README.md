@@ -1,6 +1,6 @@
-**Relatório de Progresso Diário**
+# Relatório de Progresso Diário
 
-# Evidência de Entrega
+**Evidência de Entrega**
 
 Este repositório contém um script em Python que analisa e visualiza o progresso diário de trabalho. O código é capaz de calcular métricas como o total de horas trabalhadas, média diária de horas trabalhadas, total de bugs corrigidos, média diária de bugs corrigidos, total de tarefas concluídas e média diária de tarefas concluídas.
 
